@@ -1,3 +1,4 @@
+'use strict'
 //Require dependencies
 const fs = require("fs");
 const express = require("express");
