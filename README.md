@@ -8,17 +8,22 @@
 <details open="open">
     <summary>Table of Contents</summary>
     <ol>
-        <li><a href="#introduce">Introduction</a></li>
+        <li><a href="#Introduce">Introduction</a></li>
         <li><a href="#Installation">Installaion tutorial</a></li>
     </ol>
   </details>
-## introduce
+<!-- ABOUT THE PROJECT -->
+
+# Introduce
   <p><strong>The name said it all. This project will random an image in your folder</strong></p>
+  <!-- INSTALLATION -->
+  
 ## Installation
-    1. Install [Nodejs](https://nodejs.org/en/) then setup
-    2. Clone this repository
-    3. Open the folder contain this repository with command prompt
-    3. Run these command in order
+
+1. Install [Nodejs](https://nodejs.org/en/) then setup
+2. Clone this repository
+3. Open the folder contain this repository with command prompt
+4. Run these command in order
     ```sh
     npm install
     npm start
