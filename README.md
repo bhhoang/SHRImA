@@ -1,4 +1,4 @@
-<br />
+---
 <h3> Random Image Host </h3>
   <p align="center">
     <br>
@@ -28,3 +28,4 @@
     npm install
     npm start
     ```
+---
