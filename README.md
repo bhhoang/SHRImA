@@ -18,7 +18,7 @@
   <p><strong>The name said it all. This project will random an image in your folder</strong></p>
   <!-- INSTALLATION -->
   
-## Installation
+# Installation
 
 1. Install [Nodejs](https://nodejs.org/en/) then setup
 2. Clone this repository
