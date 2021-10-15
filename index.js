@@ -8,7 +8,7 @@ const http = require("http");
 //CONFIG
 const host = "https://gg.com"; // DO NOT PUT A '/' AT THE END OF THE host. THERE'S BEEN AN EXAMPLE FOR YOU
 const main = "Main"; // THIS WILL BE THE CONTAINER FOLDER FOR ALL THE API. IN THIS CASE, MAIN FOLDER IS THAT FOLDER AND YOU CAN RENAME IT
-const PORT = process.env.PORT || 8080; //
+const PORT = process.env.PORT || 80; //
 
 //LIST API
 app.get("/", (req, res) => {
