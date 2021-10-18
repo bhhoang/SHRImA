@@ -1,15 +1,20 @@
 {
-  "name": "Self-host-random-image-api",
-  "version": "Official",
+  "name": "oficial",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "node index.js",
-    	"test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "dependencies": {
-    "express": ""
-  }
+    "auto-git-update": "^1.0.7",
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0"
+  },
+  "type": "module"
 }
