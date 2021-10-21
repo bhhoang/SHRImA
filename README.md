@@ -28,6 +28,6 @@
     npm install
     npm start
     ```
-# Credit: By me (bhhoang | NaniNanika)
+#### Credit: By me (bhhoang | NaniNanika)
 ---
 
