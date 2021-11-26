@@ -10,6 +10,7 @@
     <ol>
         <li><a href="#Introduce">Introduction</a></li>
         <li><a href="#Installation">Installaion tutorial</a></li>
+        <li><a href="#Deploy">Deploy</a></li>
     </ol>
   </details>
 <!-- ABOUT THE PROJECT -->
@@ -28,6 +29,8 @@
     npm install
     npm start
     ```
+# Deploy
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbhhoang%2Fself-hosted-random-image-api)
 #### Credit: By me (bhhoang | NaniNanika)
 ---
 
