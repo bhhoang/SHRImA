@@ -3,4 +3,10 @@
     "description": "Host random image api",
     "keywords": ["random image"],
     "repository": "https://github.com/bhhoang/self-hosted-random-image-api",
+    "environments": {
+    "test": {
+      "scripts": {
+        "start": "npm start"
+      }
+    }
 }
