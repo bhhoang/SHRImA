@@ -1,0 +1,6 @@
+{
+    "name": "self-hosted-random-image-api",
+    "description": "Host random image api",
+    "keywords": ["random image"],
+    "repository": "https://github.com/bhhoang/self-hosted-random-image-api",
+}
