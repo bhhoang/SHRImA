@@ -5,7 +5,7 @@
  =================================================================
 */
 const host = "https://gg.com"; // DO NOT PUT A '/' AT THE END OF THE host. THERE'S BEEN AN EXAMPLE FOR YOU
-const main = "Siesta"; // THIS WILL BE THE CONTAINER FOLDER FOR ALL THE API. IN THIS CASE, MAIN FOLDER IS THAT FOLDER AND YOU CAN RENAME IT
+const main = "Main"; // THIS WILL BE THE CONTAINER FOLDER FOR ALL THE API. IN THIS CASE, MAIN FOLDER IS THAT FOLDER AND YOU CAN RENAME IT
 const PORT = process.env.PORT || 8080; //
 
  /*
