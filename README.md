@@ -30,7 +30,7 @@
     npm start
     ```
 # Deploy
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbhhoang%2Fself-hosted-random-image-api) (Not working rn)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](#Deploy) (Not working rn)
 #### Credit: By me (bhhoang | NaniNanika)
 ---
 
