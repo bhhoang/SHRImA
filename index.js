@@ -32,7 +32,7 @@ const rl = readline.createInterface({
 var isUpdated = false;
 console.log()
 let config = {
-  repository: 'https://github.com/bhhoang/self-hosted-random-image-api',
+  repository: 'https://github.com/bhhoang/SHRImA',
   tempLocation: `${path.join(__dirname, '..' , 'Temporary')}`,
   branch: "main",
   exitOnComplete: false
